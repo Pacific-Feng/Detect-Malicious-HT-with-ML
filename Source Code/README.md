@@ -24,4 +24,5 @@
 - ***Gate_Level_Analysis.sh*** : 對硬體木馬之邏輯閘層級網表進行特徵(feature)的文字分析，產出 CHIP_Feather_File.csv之分析檔(Gate_Level_Analysis.cpp)。
 - ***Feature_Extract.sh*** : 整合以上所有動作，一次性完成。
 
+&ensp;
 ※ To be done : not to untar the files in the operating folder
